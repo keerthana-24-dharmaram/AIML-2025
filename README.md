@@ -5,4 +5,4 @@
 
 [LAB 03](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/LAB_03.ipynb) : Implement AI Game Strategy using Adversarial Search Algorithms
 
-[LAB-04]():Linera regression Model using us Housing Data
+[LAB-04](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/LAB_04.ipynb):Linear regression Model using us Housing Data
