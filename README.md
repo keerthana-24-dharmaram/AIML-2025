@@ -6,3 +6,7 @@
 [LAB 03](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/LAB_03.ipynb) : Implement AI Game Strategy using Adversarial Search Algorithms
 
 [LAB-04](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/LAB_04.ipynb):Linear regression Model using us Housing Data
+
+[LAB-05]():Logistic Regression with Titanic data set
+
+[LAB-06]():K-Nearest Neighbor Classification
