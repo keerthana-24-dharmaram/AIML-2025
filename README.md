@@ -9,4 +9,4 @@
 
 [LAB-05](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/Lab_05.ipynb):Logistic Regression with Titanic data set
 
-[LAB-06]():K-Nearest Neighbor Classification
+[LAB-06](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/Lab_06.ipynb):K-Nearest Neighbor Classification
