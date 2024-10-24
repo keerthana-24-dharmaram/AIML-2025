@@ -12,3 +12,5 @@
 [LAB-06](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/Lab_06.ipynb):K-Nearest Neighbor Classification
 
 [LAB-07](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/Lab_07.ipynb):Prediction of Breast Cancer using Support Vector Machine Model
+
+[LAB-08](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/LAB_08.ipynb)
