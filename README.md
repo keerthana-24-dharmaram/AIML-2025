@@ -13,4 +13,6 @@
 
 [LAB-07](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/Lab_07.ipynb):Prediction of Breast Cancer using Support Vector Machine Model
 
-[LAB-08](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/LAB_08.ipynb)
+[LAB-08](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/LAB_08.ipynb):Implement Decision tree classifier using lending club data
+
+[LAB-09](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/Lab_09.ipynb)Implement Random Forest Ensemble classifier using lending club data
