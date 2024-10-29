@@ -17,4 +17,4 @@
 
 [LAB-09](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/Lab_09.ipynb):Implement Random Forest Ensemble classifier using lending club data
 
-[LAB-10](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/lab10_kmeans.ipynb):
+[LAB-10](https://github.com/keerthana-24-dharmaram/AIML-2025/blob/main/lab10_kmeans.ipynb):Implement K-Means Clustering using Synthetic Data from Blobs
